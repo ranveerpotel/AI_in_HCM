@@ -24,7 +24,7 @@ pydantic>=2.6.0
 chromadb>=0.4.22
 
 # MLOps / experiment tracking (§9.2)
-mlflow>=2.11.0
+mlflow>=3.12.0
 
 # Time-series (DemandForecaster fallback)
 statsmodels>=0.14.0
