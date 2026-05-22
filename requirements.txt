@@ -7,7 +7,7 @@ networkx>=3.1
 
 # Gradient boosting (§6.2 — primary predictive models)
 xgboost>=2.0.0
-lightgbm>=4.0.0
+lightgbm>=4.6.0
 
 # Explainability (§9.5 — SHAP)
 shap>=0.43.0
